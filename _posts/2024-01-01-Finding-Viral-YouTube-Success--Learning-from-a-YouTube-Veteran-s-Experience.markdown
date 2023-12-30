@@ -3,7 +3,7 @@ layout: post
 title: "Finding Viral YouTube Success: Learning from a YouTube Veteran's Experience"
 date:   2023-12-29 11:41:39 +0000
 categories: News
-excerpt_image: https://droidcrunch.com/wp-content/uploads/2017/09/youtube-success-tips.png
+excerpt_image: https://assets.entrepreneur.com/content/3x2/2000/you-tube-success-tracking.jpg
 ---
 ## The Journey of a YouTube Veteran
 Over the past 8 years, Matt has uploaded over 636 videos to his YouTube channel. With a passion for creating content and a dream of going viral, he has relentlessly produced videos in hopes of finding that magical combination that leads to millions of views. His goal with every new video is to exceed his subscriber count in views—what is commonly known as achieving viral status on YouTube.
@@ -14,7 +14,7 @@ Through experimentation and persistence, Matt has had 24 videos reach over 1.7 m
 When Matt started his channel in 2014, he was mainly making videos as a hobby and creative outlet. Like many early YouTubers, he had no real strategy or goals beyond uploading whatever interested him. Over time, he gained a small but loyal following as his passion and skills improved with practice. While growing steadily, it was far from being a lucrative or mainstream success in those early years.
 
 
-![](https://droidcrunch.com/wp-content/uploads/2017/09/youtube-success-tips.png)
+![](https://assets.entrepreneur.com/content/3x2/2000/you-tube-success-tracking.jpg)
 ### Definition of a Viral Hit
 To Matt, a video achieving viral status means surpassing his subscriber count in total views. Though arbitrary, this provided a clear benchmark for when a video truly broke out of his normal reach. His subscriber figures have grown over the years, so this definition has evolved, but videos cracking 2 million views are undoubtedly viral sensations on his channel.
 
