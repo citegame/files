@@ -3,7 +3,7 @@ layout: post
 title: "A Cautionary Tale: How Small Crimes Can Lead to Big Trouble"
 date:   2023-12-29 06:56:40 +0000
 categories: News
-excerpt_image: https://www.indiewire.com/wp-content/uploads/2015/10/fargo-season-2-episode-1-nick-offerman-carl.jpg?resize=110
+excerpt_image: https://www.indiewire.com/wp-content/uploads/2015/10/fargo-season-2-episode-1-nick-offerman-carl.jpg
 ---
 ## ### Selling Drugs as a Teen
 
